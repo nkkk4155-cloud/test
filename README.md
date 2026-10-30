@@ -44,3 +44,5 @@ ltem    |value | Quantity
 computer| 1600 | 3  
 phone   | 12   | 2  
 pipe    | 1    | 1
+
+жана озгерыс 
